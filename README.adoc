@@ -1,0 +1,10 @@
+= timer
+
+This Programm was developed in Java with the IDE IntelJ.
+
+== How to run the application?
+* In the IDE: find `Timer.java` , right-click, select "Run Timer.main()
+
+
+== defauflt windows
+image:timer.png[]
